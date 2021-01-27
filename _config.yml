@@ -22,6 +22,8 @@ collections:
     output: true
   New-Cat:
     output: true
+  Past-Articles:
+    output: true
 resources_name: media-room
 description: An Isomer site of the Singapore Government
 permalink: none
