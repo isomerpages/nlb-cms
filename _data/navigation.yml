@@ -12,3 +12,5 @@ links:
     resource_room: true
   - title: New Cat
     collection: New-Cat
+  - title: Past Articles
+    collection: Past-Articles
