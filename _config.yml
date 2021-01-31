@@ -20,8 +20,6 @@ collections:
     output: true
   our-services:
     output: true
-  New-Cat:
-    output: true
   Past-Articles:
     output: true
 resources_name: media-room
