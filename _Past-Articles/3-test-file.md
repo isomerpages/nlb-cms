@@ -5,7 +5,7 @@ permalink: test/singapore-a-city-of-campaigns
 
 > This is a test quote
 
-Over the last five decades, Singapore has conducted many campaigns covering a wide range of topics. For instance, there have been campaigns encouraging the population to keep Singapore clean, take family planning measures, be courteous, raise productivity in the workplace and speak Mandarin as well as good English. There have also been others that remind the people not to litter, be a good neighbour, live a healthy lifestyle and even to wash their hands properly. Collectively, the purpose of these campaigns is to instill certain social behaviours and attitudes that are considered by the government to be beneficial to both the individual and the community. They are also used by the State as an instrument for policy implementation.1 
+Over the last five decades, Singapore has conducted many campaigns covering a wide range of topics. For instance, there have been campaigns encouraging the population to keep Singapore clean, take family planning measures, be courteous, raise productivity in the workplace and speak Mandarin as well as good English. There have also been others that remind the people not to litter, be a good neighbour, live a healthy lifestyle and even to wash their hands properly. Collectively, the purpose of these campaigns is to instill certain social behaviours and attitudes that are considered by the government to be beneficial to both the individual and the community. They are also used by the State as an instrument for policy implementation.<sup>[1](#1)</sup>
 Each of the campaigns that was introduced usually followed a three-stage implementa¬tion process. First, a social problem was identified by the government before a decision to rectify the problem through a nation-wide campaign was made. Second, the campaign together with its rationale and goals was revealed in a public event. Third, a media blitz was launched to raise public awareness of the campaign. At the same time, a system of incentives and disincentives was also introduced to persuade the people to adopt the attitude and behaviour recommended by the campaign.2 
 
 **Campaigns in the early years of nationhood**
@@ -19,7 +19,8 @@ As the Singapore society became more affluent in the 1980s and 1990s, improving 
 
 <hr>
 
-1. <small>Sandhu, K. S. & Wheatley, P. (1989). Management of success: The moulding of modern Singapore. Singapore: Institute of Southeast Asian Studies, p. 116.</small>
+##### 1 
+<small>Sandhu, K. S. & Wheatley, P. (1989). Management of success: The moulding of modern Singapore. Singapore: Institute of Southeast Asian Studies, p. 116.</small>
 
 2. <small>Langford, J.W. & Brownsey, K. L. (1988). The Changing shape of government in the Asia-PaciÀc region. Halifax, N.S.: Institute for Research on Public Policy, pp.134 – 135.</small>
 
