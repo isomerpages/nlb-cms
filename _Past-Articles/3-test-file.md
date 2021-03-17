@@ -21,7 +21,7 @@ As the Singapore society became more affluent in the 1980s and 1990s, improving 
 
 1. <div id="1"><small>Sandhu, K. S. & Wheatley, P. (1989). Management of success: The moulding of modern Singapore. Singapore: Institute of Southeast Asian Studies, p. 116.</small>
 
-2. <small>Langford, J.W. & Brownsey, K. L. (1988). The Changing shape of government in the Asia-PaciÀc region. Halifax, N.S.: Institute for Research on Public Policy, pp.134 – 135.</small>
+2. <small id="2">Langford, J.W. & Brownsey, K. L. (1988). The Changing shape of government in the Asia-PaciÀc region. Halifax, N.S.: Institute for Research on Public Policy, pp.134 – 135.</small>
 
 3. <small>Pan, H. (2005). National campaigns – A way of life. In Legacy of Singapore: 40th anniversary commemorative 1965-2005. Singapore: CR Media, p.104. </small>
 
