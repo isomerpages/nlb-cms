@@ -19,7 +19,7 @@ As the Singapore society became more affluent in the 1980s and 1990s, improving 
 
 <hr>
 
-1. <a href="1"><small>Sandhu, K. S. & Wheatley, P. (1989). Management of success: The moulding of modern Singapore. Singapore: Institute of Southeast Asian Studies, p. 116.</small>
+1. <a href="#1"><small>Sandhu, K. S. & Wheatley, P. (1989). Management of success: The moulding of modern Singapore. Singapore: Institute of Southeast Asian Studies, p. 116.</small>
 
 2. <small>Langford, J.W. & Brownsey, K. L. (1988). The Changing shape of government in the Asia-PaciÀc region. Halifax, N.S.: Institute for Research on Public Policy, pp.134 – 135.</small>
 
