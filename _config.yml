@@ -15,13 +15,6 @@ colors:
       color: '#00838f'
     - title: media-color-five
       color: '#00838f'
-collections:
-  about-us:
-    output: true
-  our-services:
-    output: true
-  Past-Articles:
-    output: true
 resources_name: media-room
 description: An Isomer site of the Singapore Government
 permalink: none
@@ -51,8 +44,11 @@ custom_print_css_path: /assets/css/print.css
 paginate: 12
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
+staging: https://nlb-cms-staging.netlify.app
+prod: https://nlb-cms-prod.netlify.app
 plugins:
   - jekyll-feed
   - jekyll-assets
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-remote-theme

@@ -1,0 +1,8 @@
+collections:
+  Past-Articles:
+    output: true
+    order:
+      - past-articles.md
+      - a-slice-of-singapore-in-the-biodiversity-heritage-library.md
+      - stamping-history.md
+      - a-city-of-campaigns.md
