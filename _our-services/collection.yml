@@ -1,0 +1,6 @@
+collections:
+  our-services:
+    output: true
+    order:
+      - libraries-locations.md
+      - national-archives.md

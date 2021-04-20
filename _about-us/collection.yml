@@ -1,0 +1,8 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - who-we-are/.keep
+      - who-we-are/vision-mission.md
+      - who-we-are/our-logo.md
+      - what-we-do.md
